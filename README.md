@@ -1,9 +1,9 @@
 # drone-stack
 
-Drone plugin to deploy stacks in Docker Swarm. Use the following image:
+Drone plugin to deploy stacks in Docker Swarm. Use the following image from docker hub:
 
 ```
-ghcr.io/codestation/drone-stack:latest
+mushroomlabs/drone-stack:latest
 ```
 
 ## Basic Usage with Drone CI
